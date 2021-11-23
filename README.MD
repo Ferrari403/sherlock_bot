@@ -7,8 +7,8 @@
 take token in botfather and past to CONFIG
 
 open cmd/terminal
-
+```console
 python main_bot.py
-
-telegram_bot use github repository "sherlock"
+```
+telegram_bot use github repository "sherlock"(modified version)
 
